@@ -1,0 +1,8 @@
+Cancer.label	percentscc	reference
+Trachea, bronchus and lung	0.255	https://www.ncbi.nlm.nih.gov/books/NBK564510/
+Cervix uteri	0.75	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8906686/
+Penis	0.95	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9301560/
+Vulva	0.95	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4374790/
+Head and neck	0.9	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4374790/
+Anus	0.70	https://www.publish.csiro.au/SH/SH12070
+Oesophagus	0.90	https://pubmed.ncbi.nlm.nih.gov/28823862/

@@ -1,0 +1,201 @@
+Cancer id,Cancer label,Population id,Population,Sex,Type,Cases base in 2020,Year,Prediction,Change in number of cases,Change in number of cases due to population,Change in number of cases due to risk
+1,"Lip, oral cavity",32,Argentina,0,0,1304,2020,1304,0,0,0
+1,"Lip, oral cavity",32,Argentina,0,0,1304,2025,1427,123,9.4325,0
+1,"Lip, oral cavity",32,Argentina,0,0,1304,2030,1565,261,20.0153,0
+1,"Lip, oral cavity",32,Argentina,0,0,1304,2035,1712,408,31.2883,0
+1,"Lip, oral cavity",32,Argentina,0,0,1304,2040,1860,556,42.638,0
+10,Anus,32,Argentina,0,0,290,2020,290,0,0,0
+10,Anus,32,Argentina,0,0,290,2025,316,26,8.9655,0
+10,Anus,32,Argentina,0,0,290,2030,343,53,18.2759,0
+10,Anus,32,Argentina,0,0,290,2035,372,82,28.2759,0
+10,Anus,32,Argentina,0,0,290,2040,404,114,39.3103,0
+11,Liver and intrahepatic bile ducts,32,Argentina,0,0,2437,2020,2437,0,0,0
+11,Liver and intrahepatic bile ducts,32,Argentina,0,0,2437,2025,2685,248,10.1764,0
+11,Liver and intrahepatic bile ducts,32,Argentina,0,0,2437,2030,2965,528,21.666,0
+11,Liver and intrahepatic bile ducts,32,Argentina,0,0,2437,2035,3273,836,34.3045,0
+11,Liver and intrahepatic bile ducts,32,Argentina,0,0,2437,2040,3611,1174,48.174,0
+12,Gallbladder,32,Argentina,0,0,818,2020,818,0,0,0
+12,Gallbladder,32,Argentina,0,0,818,2025,896,78,9.5355,0
+12,Gallbladder,32,Argentina,0,0,818,2030,981,163,19.9266,0
+12,Gallbladder,32,Argentina,0,0,818,2035,1074,256,31.2958,0
+12,Gallbladder,32,Argentina,0,0,818,2040,1172,354,43.2763,0
+13,Pancreas,32,Argentina,0,0,5026,2020,5026,0,0,0
+13,Pancreas,32,Argentina,0,0,5026,2025,5547,521,10.3661,0
+13,Pancreas,32,Argentina,0,0,5026,2030,6139,1113,22.1448,0
+13,Pancreas,32,Argentina,0,0,5026,2035,6791,1765,35.1174,0
+13,Pancreas,32,Argentina,0,0,5026,2040,7498,2472,49.1842,0
+14,Larynx,32,Argentina,0,0,1414,2020,1414,0,0,0
+14,Larynx,32,Argentina,0,0,1414,2025,1548,134,9.4767,0
+14,Larynx,32,Argentina,0,0,1414,2030,1704,290,20.5092,0
+14,Larynx,32,Argentina,0,0,1414,2035,1885,471,33.3098,0
+14,Larynx,32,Argentina,0,0,1414,2040,2086,672,47.5248,0
+15,"Trachea, bronchus and lung",32,Argentina,0,0,12110,2020,12110,0,0,0
+15,"Trachea, bronchus and lung",32,Argentina,0,0,12110,2025,13312,1202,9.9257,0
+15,"Trachea, bronchus and lung",32,Argentina,0,0,12110,2030,14664,2554,21.09,0
+15,"Trachea, bronchus and lung",32,Argentina,0,0,12110,2035,16183,4073,33.6334,0
+15,"Trachea, bronchus and lung",32,Argentina,0,0,12110,2040,17876,5766,47.6135,0
+16,Melanoma of skin,32,Argentina,0,0,1731,2020,1731,0,0,0
+16,Melanoma of skin,32,Argentina,0,0,1731,2025,1886,155,8.9544,0
+16,Melanoma of skin,32,Argentina,0,0,1731,2030,2053,322,18.602,0
+16,Melanoma of skin,32,Argentina,0,0,1731,2035,2231,500,28.885,0
+16,Melanoma of skin,32,Argentina,0,0,1731,2040,2421,690,39.8614,0
+17,Non-melanoma skin cancer,32,Argentina,0,0,4060,2020,4060,0,0,0
+17,Non-melanoma skin cancer,32,Argentina,0,0,4060,2025,4492,432,10.6404,0
+17,Non-melanoma skin cancer,32,Argentina,0,0,4060,2030,4991,931,22.931,0
+17,Non-melanoma skin cancer,32,Argentina,0,0,4060,2035,5541,1481,36.4778,0
+17,Non-melanoma skin cancer,32,Argentina,0,0,4060,2040,6133,2073,51.0591,0
+18,Mesothelioma,32,Argentina,0,0,301,2020,301,0,0,0
+18,Mesothelioma,32,Argentina,0,0,301,2025,332,31,10.299,0
+18,Mesothelioma,32,Argentina,0,0,301,2030,366,65,21.5947,0
+18,Mesothelioma,32,Argentina,0,0,301,2035,401,100,33.2226,0
+18,Mesothelioma,32,Argentina,0,0,301,2040,441,140,46.5116,0
+19,Kaposi sarcoma,32,Argentina,0,0,231,2020,231,0,0,0
+19,Kaposi sarcoma,32,Argentina,0,0,231,2025,247,16,6.9264,0
+19,Kaposi sarcoma,32,Argentina,0,0,231,2030,261,30,12.987,0
+19,Kaposi sarcoma,32,Argentina,0,0,231,2035,274,43,18.6147,0
+19,Kaposi sarcoma,32,Argentina,0,0,231,2040,286,55,23.8095,0
+2,Salivary glands,32,Argentina,0,0,318,2020,318,0,0,0
+2,Salivary glands,32,Argentina,0,0,318,2025,348,30,9.434,0
+2,Salivary glands,32,Argentina,0,0,318,2030,383,65,20.4403,0
+2,Salivary glands,32,Argentina,0,0,318,2035,423,105,33.0189,0
+2,Salivary glands,32,Argentina,0,0,318,2040,465,147,46.2264,0
+20,Breast,32,Argentina,0,0,22024,2020,22024,0,0,0
+20,Breast,32,Argentina,0,0,22024,2025,23891,1867,8.4771,0
+20,Breast,32,Argentina,0,0,22024,2030,25812,3788,17.1994,0
+20,Breast,32,Argentina,0,0,22024,2035,27768,5744,26.0806,0
+20,Breast,32,Argentina,0,0,22024,2040,29739,7715,35.03,0
+21,Vulva,32,Argentina,0,0,323,2020,323,0,0,0
+21,Vulva,32,Argentina,0,0,323,2025,355,32,9.9071,0
+21,Vulva,32,Argentina,0,0,323,2030,392,69,21.3622,0
+21,Vulva,32,Argentina,0,0,323,2035,433,110,34.0557,0
+21,Vulva,32,Argentina,0,0,323,2040,474,151,46.7492,0
+22,Vagina,32,Argentina,0,0,118,2020,118,0,0,0
+22,Vagina,32,Argentina,0,0,118,2025,130,12,10.1695,0
+22,Vagina,32,Argentina,0,0,118,2030,143,25,21.1864,0
+22,Vagina,32,Argentina,0,0,118,2035,156,38,32.2034,0
+22,Vagina,32,Argentina,0,0,118,2040,170,52,44.0678,0
+23,Cervix uteri,32,Argentina,0,0,4583,2020,4583,0,0,0
+23,Cervix uteri,32,Argentina,0,0,4583,2025,4905,322,7.026,0
+23,Cervix uteri,32,Argentina,0,0,4583,2030,5216,633,13.8119,0
+23,Cervix uteri,32,Argentina,0,0,4583,2035,5513,930,20.2924,0
+23,Cervix uteri,32,Argentina,0,0,4583,2040,5791,1208,26.3583,0
+24,Corpus uteri,32,Argentina,0,0,2455,2020,2455,0,0,0
+24,Corpus uteri,32,Argentina,0,0,2455,2025,2675,220,8.9613,0
+24,Corpus uteri,32,Argentina,0,0,2455,2030,2917,462,18.8187,0
+24,Corpus uteri,32,Argentina,0,0,2455,2035,3174,719,29.2872,0
+24,Corpus uteri,32,Argentina,0,0,2455,2040,3437,982,40,0
+25,Ovary,32,Argentina,0,0,2199,2020,2199,0,0,0
+25,Ovary,32,Argentina,0,0,2199,2025,2382,183,8.322,0
+25,Ovary,32,Argentina,0,0,2199,2030,2574,375,17.0532,0
+25,Ovary,32,Argentina,0,0,2199,2035,2768,569,25.8754,0
+25,Ovary,32,Argentina,0,0,2199,2040,2960,761,34.6066,0
+26,Penis,32,Argentina,0,0,407,2020,407,0,0,0
+26,Penis,32,Argentina,0,0,407,2025,448,41,10.0737,0
+26,Penis,32,Argentina,0,0,407,2030,492,85,20.8845,0
+26,Penis,32,Argentina,0,0,407,2035,539,132,32.4324,0
+26,Penis,32,Argentina,0,0,407,2040,589,182,44.7174,0
+27,Prostate,32,Argentina,0,0,11686,2020,11686,0,0,0
+27,Prostate,32,Argentina,0,0,11686,2025,12863,1177,10.0719,0
+27,Prostate,32,Argentina,0,0,11686,2030,14148,2462,21.0679,0
+27,Prostate,32,Argentina,0,0,11686,2035,15630,3944,33.7498,0
+27,Prostate,32,Argentina,0,0,11686,2040,17388,5702,48.7934,0
+28,Testis,32,Argentina,0,0,2047,2020,2047,0,0,0
+28,Testis,32,Argentina,0,0,2047,2025,2161,114,5.5691,0
+28,Testis,32,Argentina,0,0,2047,2030,2233,186,9.0865,0
+28,Testis,32,Argentina,0,0,2047,2035,2306,259,12.6527,0
+28,Testis,32,Argentina,0,0,2047,2040,2378,331,16.17,0
+29,Kidney and renal pelvis,32,Argentina,0,0,5093,2020,5093,0,0,0
+29,Kidney and renal pelvis,32,Argentina,0,0,5093,2025,5567,474,9.3069,0
+29,Kidney and renal pelvis,32,Argentina,0,0,5093,2030,6096,1003,19.6937,0
+29,Kidney and renal pelvis,32,Argentina,0,0,5093,2035,6677,1584,31.1015,0
+29,Kidney and renal pelvis,32,Argentina,0,0,5093,2040,7297,2204,43.2751,0
+3,Oropharynx,32,Argentina,0,0,380,2020,380,0,0,0
+3,Oropharynx,32,Argentina,0,0,380,2025,416,36,9.4737,0
+3,Oropharynx,32,Argentina,0,0,380,2030,456,76,20,0
+3,Oropharynx,32,Argentina,0,0,380,2035,501,121,31.8421,0
+3,Oropharynx,32,Argentina,0,0,380,2040,550,170,44.7368,0
+30,Bladder,32,Argentina,0,0,3785,2020,3785,0,0,0
+30,Bladder,32,Argentina,0,0,3785,2025,4176,391,10.3303,0
+30,Bladder,32,Argentina,0,0,3785,2030,4636,851,22.4835,0
+30,Bladder,32,Argentina,0,0,3785,2035,5164,1379,36.4333,0
+30,Bladder,32,Argentina,0,0,3785,2040,5754,1969,52.0211,0
+31,"Brain, nervous system",32,Argentina,0,0,1831,2020,1831,0,0,0
+31,"Brain, nervous system",32,Argentina,0,0,1831,2025,1978,147,8.0284,0
+31,"Brain, nervous system",32,Argentina,0,0,1831,2030,2136,305,16.6576,0
+31,"Brain, nervous system",32,Argentina,0,0,1831,2035,2302,471,25.7236,0
+31,"Brain, nervous system",32,Argentina,0,0,1831,2040,2475,644,35.172,0
+32,Thyroid,32,Argentina,0,0,4106,2020,4106,0,0,0
+32,Thyroid,32,Argentina,0,0,4106,2025,4384,278,6.7706,0
+32,Thyroid,32,Argentina,0,0,4106,2030,4656,550,13.395,0
+32,Thyroid,32,Argentina,0,0,4106,2035,4917,811,19.7516,0
+32,Thyroid,32,Argentina,0,0,4106,2040,5156,1050,25.5723,0
+33,Hodgkin lymphoma,32,Argentina,0,0,1022,2020,1022,0,0,0
+33,Hodgkin lymphoma,32,Argentina,0,0,1022,2025,1079,57,5.5773,0
+33,Hodgkin lymphoma,32,Argentina,0,0,1022,2030,1136,114,11.1546,0
+33,Hodgkin lymphoma,32,Argentina,0,0,1022,2035,1191,169,16.5362,0
+33,Hodgkin lymphoma,32,Argentina,0,0,1022,2040,1246,224,21.9178,0
+34,Non-Hodgkin lymphoma,32,Argentina,0,0,3557,2020,3557,0,0,0
+34,Non-Hodgkin lymphoma,32,Argentina,0,0,3557,2025,3866,309,8.6871,0
+34,Non-Hodgkin lymphoma,32,Argentina,0,0,3557,2030,4201,644,18.1051,0
+34,Non-Hodgkin lymphoma,32,Argentina,0,0,3557,2035,4557,1000,28.1136,0
+34,Non-Hodgkin lymphoma,32,Argentina,0,0,3557,2040,4930,1373,38.5999,0
+35,Multiple myeloma and immunoproliferative diseases,32,Argentina,0,0,1102,2020,1102,0,0,0
+35,Multiple myeloma and immunoproliferative diseases,32,Argentina,0,0,1102,2025,1211,109,9.8911,0
+35,Multiple myeloma and immunoproliferative diseases,32,Argentina,0,0,1102,2030,1331,229,20.7804,0
+35,Multiple myeloma and immunoproliferative diseases,32,Argentina,0,0,1102,2035,1461,359,32.5771,0
+35,Multiple myeloma and immunoproliferative diseases,32,Argentina,0,0,1102,2040,1601,499,45.2813,0
+36,Leukaemia,32,Argentina,0,0,3234,2020,3234,0,0,0
+36,Leukaemia,32,Argentina,0,0,3234,2025,3487,253,7.8231,0
+36,Leukaemia,32,Argentina,0,0,3234,2030,3765,531,16.4193,0
+36,Leukaemia,32,Argentina,0,0,3234,2035,4063,829,25.6339,0
+36,Leukaemia,32,Argentina,0,0,3234,2040,4382,1148,35.4978,0
+37,Other specified sites,32,Argentina,0,0,3761,2020,3761,0,0,0
+37,Other specified sites,32,Argentina,0,0,3761,2025,4077,316,8.402,0
+37,Other specified sites,32,Argentina,0,0,3761,2030,4423,662,17.6017,0
+37,Other specified sites,32,Argentina,0,0,3761,2035,4794,1033,27.4661,0
+37,Other specified sites,32,Argentina,0,0,3761,2040,5187,1426,37.9154,0
+38,Unspecified sites,32,Argentina,0,0,5305,2020,5305,0,0,0
+38,Unspecified sites,32,Argentina,0,0,5305,2025,5839,534,10.066,0
+38,Unspecified sites,32,Argentina,0,0,5305,2030,6443,1138,21.4515,0
+38,Unspecified sites,32,Argentina,0,0,5305,2035,7107,1802,33.968,0
+38,Unspecified sites,32,Argentina,0,0,5305,2040,7819,2514,47.3893,0
+39,All cancers,32,Argentina,0,0,130878,2020,130878,0,0,0
+39,All cancers,32,Argentina,0,0,130878,2025,142922,12044,9.2025,0
+39,All cancers,32,Argentina,0,0,130878,2030,156063,25185,19.2431,0
+39,All cancers,32,Argentina,0,0,130878,2035,170312,39434,30.1303,0
+39,All cancers,32,Argentina,0,0,130878,2040,185606,54728,41.816,0
+4,Nasopharynx,32,Argentina,0,0,146,2020,146,0,0,0
+4,Nasopharynx,32,Argentina,0,0,146,2025,158,12,8.2192,0
+4,Nasopharynx,32,Argentina,0,0,146,2030,172,26,17.8082,0
+4,Nasopharynx,32,Argentina,0,0,146,2035,188,42,28.7671,0
+4,Nasopharynx,32,Argentina,0,0,146,2040,202,56,38.3562,0
+40,All cancers excluding non-melanoma skin cancer,32,Argentina,0,0,126818,2020,126818,0,0,0
+40,All cancers excluding non-melanoma skin cancer,32,Argentina,0,0,126818,2025,138430,11612,9.1564,0
+40,All cancers excluding non-melanoma skin cancer,32,Argentina,0,0,126818,2030,151072,24254,19.125,0
+40,All cancers excluding non-melanoma skin cancer,32,Argentina,0,0,126818,2035,164771,37953,29.9271,0
+40,All cancers excluding non-melanoma skin cancer,32,Argentina,0,0,126818,2040,179473,52655,41.5201,0
+5,Hypopharynx,32,Argentina,0,0,73,2020,73,0,0,0
+5,Hypopharynx,32,Argentina,0,0,73,2025,80,7,9.589,0
+5,Hypopharynx,32,Argentina,0,0,73,2030,88,15,20.5479,0
+5,Hypopharynx,32,Argentina,0,0,73,2035,97,24,32.8767,0
+5,Hypopharynx,32,Argentina,0,0,73,2040,106,33,45.2055,0
+6,Oesophagus,32,Argentina,0,0,1993,2020,1993,0,0,0
+6,Oesophagus,32,Argentina,0,0,1993,2025,2199,206,10.3362,0
+6,Oesophagus,32,Argentina,0,0,1993,2030,2433,440,22.0773,0
+6,Oesophagus,32,Argentina,0,0,1993,2035,2695,702,35.2233,0
+6,Oesophagus,32,Argentina,0,0,1993,2040,2982,989,49.6237,0
+7,Stomach,32,Argentina,0,0,4003,2020,4003,0,0,0
+7,Stomach,32,Argentina,0,0,4003,2025,4404,401,10.0175,0
+7,Stomach,32,Argentina,0,0,4003,2030,4854,851,21.2591,0
+7,Stomach,32,Argentina,0,0,4003,2035,5347,1344,33.5748,0
+7,Stomach,32,Argentina,0,0,4003,2040,5883,1880,46.9648,0
+8,Colon,32,Argentina,0,0,12482,2020,12482,0,0,0
+8,Colon,32,Argentina,0,0,12482,2025,13729,1247,9.9904,0
+8,Colon,32,Argentina,0,0,12482,2030,15134,2652,21.2466,0
+8,Colon,32,Argentina,0,0,12482,2035,16678,4196,33.6164,0
+8,Colon,32,Argentina,0,0,12482,2040,18342,5860,46.9476,0
+9,Rectum,32,Argentina,0,0,3123,2020,3123,0,0,0
+9,Rectum,32,Argentina,0,0,3123,2025,3424,301,9.6382,0
+9,Rectum,32,Argentina,0,0,3123,2030,3759,636,20.365,0
+9,Rectum,32,Argentina,0,0,3123,2035,4125,1002,32.0845,0
+9,Rectum,32,Argentina,0,0,3123,2040,4518,1395,44.6686,0
