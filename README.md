@@ -1,0 +1,2 @@
+# scc
+Squamous cell carcinoma
