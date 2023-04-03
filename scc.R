@@ -21,6 +21,7 @@
 
 require(ggplot2)
 require(scales)
+require(plyr)
 
 
 ### GLOBOCAN 2020 ##
@@ -108,8 +109,11 @@ argentina <- rbind(argentina.mort, argentina.inc)
 cbPalette <- c("#999999", "#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", "#D55E00", "#CC79A7")
 
 plot.epidemio <- function(data, title, variable) {
+	if (variable == 'Cancer.label') {
+		data$Cancer.label <- mapvalues(argentina$Cancer.label, from='Head and neck', to='Head & neck') 
+	}
     size.axis <- 20
-    size.strip <- 18
+    size.strip <- 21
     size.title <- 25
     size.legend.title <- 20
     size.legend.text <- 20
